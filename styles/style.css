@@ -123,14 +123,14 @@ div ul li{
  /* footer-section */
  .footer-section{
      margin: none;
-     color: white;
+     color:rgb(130, 140, 148);
      background-color: rgb(1, 1, 29);
      text-align: center;
      
  }
  .footer-section a{
      list-style-type: none;
-     color: white;
+     color: rgb(130, 140, 148);
      margin: 0%;
      
  }
