@@ -88,3 +88,26 @@ div ul li{
      text-decoration-line: none;
      color:rgb(223, 20, 121) ;
  }
+
+ /* Featured products */
+
+
+ .Featured-products{
+     display: flex;
+     padding-left: 100px;
+
+ }
+ .featured-detalse{
+     padding-left: 100px;
+     
+ }
+ .featured-detalse > h2{
+     font-size: 30px;
+ }
+ .join-now-batton{
+    text-decoration: none;
+    color: white;
+    background-color: rgb(223, 20, 121);
+    padding: 6px 30px;
+
+ }
