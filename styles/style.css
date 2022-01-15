@@ -18,7 +18,7 @@ article{
     display: flex;
 }
 h1{
-    font-size: 50px;
+    font-size: 40px;
 }
 
 .article-hade{
@@ -31,6 +31,10 @@ h1{
     background-color: rgb(223, 20, 121);
     padding: 6px 20px;
     border-radius: 15px;
+}
+.preebook-now-button:hover{
+    background-color: thistle;
+
 }
 
 
@@ -60,12 +64,11 @@ div ul li{
     text-align: center;
  }
  .populer-colection-body{
-    
-     
+
      display: grid;
      grid-template-columns: repeat(3, 1fr);
-     grid-gap: 5em;
-     padding-left: 100px;
+     grid-gap: 4em;
+     padding-left: 40px;
 
  }
  .star-reating{
@@ -75,9 +78,12 @@ div ul li{
      color:orange;
  }
  .poouler-conten{
-    width: 300px;
-    height: 400px;
-   
+    border: 1px solid white;
+    padding: 10px;
+    box-shadow: 5px 10px 18px #888888;
+    border-radius: 5px;
+    width: 350px;
+    height: 450px;
     padding: 20px 5px;
     justify-content: space-between;
  }
@@ -135,4 +141,5 @@ div ul li{
      padding-left: 15px;
  }
 
- 
+
+
