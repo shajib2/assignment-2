@@ -66,6 +66,9 @@ div ul li{
      padding-left: 100px;
 
  }
+ .fa-star{
+     color:orange;
+ }
  .poouler-conten{
     width: 300px;
     height: 400px;
