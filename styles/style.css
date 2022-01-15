@@ -111,3 +111,26 @@ div ul li{
     padding: 6px 30px;
 
  }
+
+ /* footer-section */
+ .footer-section{
+     margin:0;
+     color: white;
+     background-color: black;
+     text-align: center;
+     
+ }
+ .footer-section a{
+     list-style-type: none;
+     color: white;
+     
+ }
+ .socila-media-icon{
+     display: flex;
+     padding-left: 600px;
+ }
+ .socila-media-icon a{
+     padding-left: 15px;
+ }
+
+ 
