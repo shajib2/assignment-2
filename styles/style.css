@@ -59,3 +59,8 @@ div ul li{
  .populer-colection-hade{
     text-align: center;
  }
+ .populer-colection-body{
+     display: grid;
+     grid-template-columns: repeat(3, 1fr);
+     padding-left: 100px;
+ }
