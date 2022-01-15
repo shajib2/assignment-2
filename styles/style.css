@@ -60,7 +60,25 @@ div ul li{
     text-align: center;
  }
  .populer-colection-body{
+     
      display: grid;
      grid-template-columns: repeat(3, 1fr);
      padding-left: 100px;
+
+ }
+ .poouler-conten{
+    width: 300px;
+    height: 400px;
+   
+    padding: 20px 5px;
+    justify-content: space-between;
+ }
+ .see-more-battoms{
+     padding-left: 1150px;
+ }
+
+ #see-more-battom{
+     
+     text-decoration-line: none;
+     color:rgb(223, 20, 121) ;
  }
