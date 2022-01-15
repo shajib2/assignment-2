@@ -66,6 +66,9 @@ div ul li{
      padding-left: 100px;
 
  }
+ .star-reating{
+     display: flex;
+ }
  .fa-star{
      color:orange;
  }
