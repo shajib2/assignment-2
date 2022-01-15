@@ -122,15 +122,16 @@ div ul li{
 
  /* footer-section */
  .footer-section{
-     margin:0;
+     margin: none;
      color: white;
-     background-color: black;
+     background-color: rgb(1, 1, 29);
      text-align: center;
      
  }
  .footer-section a{
      list-style-type: none;
      color: white;
+     margin: 0%;
      
  }
  .socila-media-icon{
